@@ -26,6 +26,33 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+map.html
+
+
+<html>
+<head>
+    <title>MY CITY</title>
+    </head>
+    <body>
+        <h1 align="center">
+            <font color="red"><b>GOBICHETTIPALAYAM</b></font>
+         </h1>
+         <h3 align="center">
+            <font color="blue"><b>HAREESH R (23013706)</b></font>
+         </h3>
+         <center>
+            <img src="map.png" usemap="#MYCITY" height="610" width="1450">
+            <map name="MYCITY">
+                <area shape="rect" coords="800,300,850,400" href="home.html" title="MY HOME TOWN">
+                <area shape="circle" coords="700,250,150,100" href="temple.html" title="Pavala malai murugan temple">
+                <area shape="circle" coords="100,400,400,500" href="college.html" title="Gobi arts & science college">
+                <area shape="circle" coords="1000,250,150,200" href="mahal.html" title="Meenakshi suntharesan mahal">
+                <area shape="rect" coords="300,500,550,400" href="shop.html" title="Jegan metal mart">
+            </map>
+         </center>
+    </body>
+</html>
+
 
 shop.html
 
