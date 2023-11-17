@@ -172,6 +172,7 @@ Our Menakshi sundherasan mahal in Gobichettipalayam is an air conditioned hall w
 
 
 ## OUTPUT
+![Alt text](hari/mapapp/static/map.png)
 ![Alt text](shop.png)
 ![Alt text](home.png)
 ![Alt text](temple.png)
